@@ -1,11 +1,15 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-
-Студент Санкт-Петербургского политехнического университета Петра Великого 
+Студент Санкт-Петербургского политехнического университета Петра Великого  <img src="https://www.spbstu.ru/local/templates/main/img/logo.png" width="25"> 
 
 Соц. сети: 
-<p>VK <br>https://vk.com/id757125902 </p>
-<p>Telegram<br> https://t.me/YakubovSHK</p>
+
+
+<a href="https://vk.com/id757125902"><img src="https://w7.pngwing.com/pngs/755/366/png-transparent-vk-user-interface-logo-socialmedia-social-media-flat-icon.png" width="25"></a>
+
+<a href="https://t.me/YakubovSHK"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="25"></a>
+
+
 
 * 🌍 Город: Санкт-Петербург
 * ✉️  Почта: [yakubovshak@gmail.com](mailto:yakubovshak@gmail.com)
