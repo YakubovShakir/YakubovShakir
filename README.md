@@ -12,7 +12,7 @@
 
 
 * 🌍 Город: Санкт-Петербург
-* ✉️  Почта: [yakubovshak@gmail.com](mailto:yakubovshak@gmail.com)
+* ✉️  Почта: [yakubovshak@gmail.com](mailto:yakuboff.sh@yandex.ru)
 
 ### Навыки
 
